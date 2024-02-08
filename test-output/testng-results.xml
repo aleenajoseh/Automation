@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-08T12:25:26 IST" name="Default suite" finished-at="2024-02-08T12:37:27 IST" duration-ms="721692">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T12:25:26 IST" name="Default test" finished-at="2024-02-08T12:37:27 IST" duration-ms="721692">
+      <class name="test.Autotest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Autotest@593aaf41]" started-at="2024-02-08T12:25:26 IST" name="setup" finished-at="2024-02-08T12:25:34 IST" duration-ms="8758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="open()[pri:0, instance:test.Autotest@593aaf41]" started-at="2024-02-08T12:25:35 IST" name="open" finished-at="2024-02-08T12:25:43 IST" duration-ms="8960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="test()[pri:0, instance:test.Autotest@593aaf41]" started-at="2024-02-08T12:25:43 IST" name="test" finished-at="2024-02-08T12:37:27 IST" duration-ms="703756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test.Autotest@593aaf41]" started-at="2024-02-08T12:37:27 IST" name="close" finished-at="2024-02-08T12:37:27 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.Autotest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
